@@ -55,9 +55,9 @@
 ### 📊 GitHub 核心数据
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kaitumei&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kaitumei&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true">
-  <img width="49%" alt="GitHub统计" src="https://github-readme-stats.vercel.app/api?username=kaitumei&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=kaitumei&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=kaitumei&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true">
+  <img width="49%" alt="GitHub统计" src="https://github-stats-extended.vercel.app/api?username=kaitumei&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kaitumei&theme=github-dark-blue&hide_border=true&date_format=%5BY.%5Dn.j">
@@ -68,9 +68,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitumei&layout=compact&theme=github_dark&hide_border=true&langs_count=10&exclude_repo=test,demo">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitumei&layout=compact&theme=default&hide_border=true&langs_count=10&exclude_repo=test,demo">
-  <img width="49%" alt="常用语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitumei&layout=compact&theme=default&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=kaitumei&layout=compact&theme=github_dark&hide_border=true&langs_count=10&exclude_repo=test,demo">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=kaitumei&layout=compact&theme=default&hide_border=true&langs_count=10&exclude_repo=test,demo">
+  <img width="49%" alt="常用语言" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaitumei&layout=compact&theme=default&hide_border=true">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaitumei&theme=github_dark&hide_border=true">
@@ -78,7 +78,6 @@
   <img width="49%" alt="提交详情" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaitumei&theme=default&hide_border=true">
 </picture>
 </div>
-
 ---
 
 ### 🐍 贪吃蛇吃掉我的提交记录！
