@@ -57,12 +57,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kaitumei&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kaitumei&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true">
-  <img width="49%" alt="GitHub统计" src="https://github-readme-stats.vercel.app/api?username=kaitumei&show_icons=true&theme=default&hide_border=true">
+  <img width="49%" alt="GitHub统计" src="https://github-readme-stats.vercel.app/api?username=kaitumei&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kaitumei&theme=github-dark-blue&hide_border=true&date_format=%5BY.%5Dn.j">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kaitumei&theme=default&hide_border=true&date_format=%5BY.%5Dn.j">
-  <img width="49%" alt="连续提交统计" src="https://github-readme-streak-stats.herokuapp.com/?user=kaitumei&theme=default&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kaitumei&theme=github-dark-blue&hide_border=true&date_format=%5BY.%5Dn.j">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kaitumei&theme=default&hide_border=true&date_format=%5BY.%5Dn.j">
+  <img width="49%" alt="连续提交统计" src="https://streak-stats.demolab.com/?user=kaitumei&theme=default&hide_border=true&date_format=%5BY.%5Dn.j">
 </picture>
 </div>
 
